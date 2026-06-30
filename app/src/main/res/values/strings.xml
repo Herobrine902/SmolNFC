@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smol NFC</string>
+    <string name="hce_service_desc">Smol NFC card emulation</string>
+    <string name="ndef_aid_group">NDEF Type 4</string>
+</resources>
